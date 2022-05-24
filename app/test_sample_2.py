@@ -3,3 +3,4 @@ def func(x) :
 
 def test_answer2():
     assert func(3) == 6
+
